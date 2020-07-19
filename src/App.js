@@ -21,10 +21,11 @@ function App() {
   return (
     <div className="App">
       {/* <Route exact path="/" component={Home} /> */}
-      <Header/>
+     {/*  <Header/>
       <Route exact path="/Courses.js" component={Courses} />
       <Route exact path="/Aboutus.js" component={Aboutus} />
-      <MainFooter/>
+      <MainFooter/> */}
+      <p>hi</p>
     </div>
   );
 }
